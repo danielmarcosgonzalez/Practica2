@@ -53,7 +53,9 @@ Observaciones
 
 La aplicación debe ser funcional y proporcionar una buena experiencia de usuario.
 
-
-
-
-
+### Production Deployment
+The deployment that is live on your production domains.
+Logs
+Domains
+https://useful-squirrel-11-czet6wxbpn57.deno.dev
+https://useful-squirrel-11.deno.dev
